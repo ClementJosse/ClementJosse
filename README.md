@@ -39,7 +39,7 @@ Git - Docker - Jenkins - NodeJS - AndroidStudio - VSCode - IntelliJ - Jira
 
 
 <p align="center">
-	<a href="https://github.com/clementjosse/citymo"><img src="https://cjosse.com/static/media/citymo.2c8e6761c9f370b627da.gif" width="500"></a>
+	<a href="https://github.com/clementjosse/citymo"><img src="./assets/citymo.gif" width="500"></a>
 </p>
 
 <br>
@@ -48,7 +48,7 @@ Git - Docker - Jenkins - NodeJS - AndroidStudio - VSCode - IntelliJ - Jira
 
 
 <p align="center">
-	<a href="https://github.com/clementjosse/portfolio"><img src="https://cjosse.com/static/media/portfolio.f8e2b41462542b638fbc.gif" width="500"></a>
+	<a href="https://github.com/clementjosse/portfolio"><img src="./assets/portfolio.gif" width="500"></a>
 </p>
 
 <br>
@@ -57,7 +57,7 @@ Git - Docker - Jenkins - NodeJS - AndroidStudio - VSCode - IntelliJ - Jira
 
 
 <p align="center">
-	<a href="https://github.com/clementjosse/velib"><img src="https://cjosse.com/static/media/velib.7693187cc9f4e48d07c1.gif" width="500"></a>
+	<a href="https://github.com/clementjosse/velib"><img src="./assets/velib.gif" width="500"></a>
 </p>
 
 <br>
@@ -66,7 +66,7 @@ Git - Docker - Jenkins - NodeJS - AndroidStudio - VSCode - IntelliJ - Jira
 
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Minecraft_clone"><img src="https://cjosse.com/static/media/santorini.9406c99d498e19c7b44f.gif" width="500"></a>
+	<a href="https://github.com/angeluriot/Minecraft_clone"><img src="./assets/santorini.gif" width="500"></a>
 </p>
 
 <br>
@@ -75,7 +75,7 @@ Git - Docker - Jenkins - NodeJS - AndroidStudio - VSCode - IntelliJ - Jira
 
 
 <p align="center">
-	<a href="https://github.com/clementjosse/Checkfumi"><img src="https://cjosse.com/static/media/checkfumi.9b5208e9a13ed02af182.gif" width="500"></a>
+	<a href="https://github.com/clementjosse/Checkfumi"><img src="./assets/checkfumi.gif" width="500"></a>
 </p>
 
 <br>
