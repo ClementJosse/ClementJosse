@@ -32,7 +32,7 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 <p align="center">
 	<img src="./assets/Figma.svg" height="35px" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/CorelVector.svg" height="35px" alt="Corel Vector">&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./assets/Javascript.svg" height="35px" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/JavaScript.svg" height="35px" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/React.svg" height="35px" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Tailwind.svg" height="35px" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Expo.svg" height="35px" alt="Expo">&nbsp;&nbsp;&nbsp;&nbsp;
