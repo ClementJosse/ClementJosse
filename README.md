@@ -6,7 +6,6 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 
 <br>
 <br>
-<br>
 
 # 📭 Contact
 <p align="center">
@@ -23,7 +22,6 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	</a>
 </p>
 
-<br>
 <br>
 <br>
 
@@ -66,7 +64,6 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	<img src="./assets/Jira.svg" height="35px" alt="Jira">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
 <br>
 <br>
 
