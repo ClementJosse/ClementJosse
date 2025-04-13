@@ -6,7 +6,6 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 
 <br>
 <br>
-<br>
 
 # 📭 Contact
 <p align="center">
@@ -23,7 +22,6 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	</a>
 </p>
 
-<br>
 <br>
 <br>
 
@@ -68,7 +66,6 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	<img src="./assets/Capacitor.svg" height="35px" alt="Jira">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
 <br>
 <br>
 
@@ -196,7 +193,7 @@ Vélib' bike availability dashboard. Automated requests to the Vélib' API and d
 Mobile game reproducing the Santorini board game. i design the board and the pieces with CorelVector. Development of a real-time online multiplayer game using React native, Expo and Firebase.
 
 <p align="center">
-	<a href="https://github.com/angeluriot/Minecraft_clone"><img src="./assets/santorini.gif" width="500"></a>
+	<a href="https://github.com/clementjosse/santorini"><img src="./assets/santorini.gif" width="500"></a>
 </p>
 
 <p align="center">
