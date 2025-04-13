@@ -1,6 +1,6 @@
 # 👦 About me
 
-Hi! I’m a french fullstrack developer living in Geneva. I like to develop things on my free time.
+Hi! I’m a french fullstrack developer living in Geneva. I like to develop cool things on my free time.
 
 More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 
@@ -36,6 +36,7 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	<img src="./assets/React.svg" height="35px" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Tailwind.svg" height="35px" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Expo.svg" height="35px" alt="Expo">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vue.svg" height="35px" alt="Expo">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -64,6 +65,7 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	<img src="./assets/VSCode.svg" height="35px" alt="VSCode">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/IntelliJ.svg" height="35px" alt="IntelliJ">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Jira.svg" height="35px" alt="Jira">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Capacitor.svg" height="35px" alt="Jira">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -71,6 +73,74 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 <br>
 
 # 📂 Projects
+
+
+## [🔗 Showcases/links to my online projects *(2025)*](https://github.com/clementjosse/links)
+
+A linktree-style website to showcase my projects that are currently online, with redirect buttons to them.
+
+<p align="center">
+	<a href="https://github.com/clementjosse/links"><img src="./assets/links.gif" width="500"></a>
+</p>
+
+<p align="center">
+	<img src="./assets/Vue.svg" height="35px" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vite.svg" height="35px" alt="Vite">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Tailwind.svg" height="35px" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## [🐺 Loups-garous sans cartes *(2025)*](https://github.com/clementjosse/loupsgarous)
+
+Online tool for playing the role-playing game “The Werewolves of Miller's Hollow” without cards in real life. The tool supports the distribution of cards to players and simplifies the actions of the leader (Thief, Fortune teller, Cupido, ...).
+
+<p align="center">
+	<a href="https://github.com/clementjosse/loupsgarous"><img src="./assets/loupsgarous.gif" width="500"></a>
+</p>
+
+<p align="center">
+	<img src="./assets/Figma.svg" height="35px" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vue.svg" height="35px" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vite.svg" height="35px" alt="Vite">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Tailwind.svg" height="35px" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Firebase.svg" height="35px" alt="Firebase">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## [📈 Score Scrabble *(2024)*](https://github.com/clementjosse/score-scrabble)
+
+Website and mobile application for keeping score and making statistics during Scrabble games (score curves, average per word, etc.).
+
+<p align="center">
+	<a href="https://github.com/clementjosse/score-scrabble"><img src="./assets/scorescrabble.gif" width="500"></a>
+</p>
+
+<p align="center">
+	<img src="./assets/Figma.svg" height="35px" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vue.svg" height="35px" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Capacitor.svg" height="35px" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/AndroidStudio.svg" height="35px" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## [📖 Dico Scrabble *(2024)*](https://github.com/clementjosse/dico-scrabble)
+
+An ergonomic online dictionary that allows you to search for a specific word with each keystroke from the "Officiel du Scrabble 9".
+
+<p align="center">
+	<a href="https://github.com/clementjosse/dico-scrabble"><img src="./assets/dicoscrabble.gif" width="500"></a>
+</p>
+
+<p align="center">
+	<img src="./assets/Figma.svg" height="35px" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vue.svg" height="35px" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Python.svg" height="35px" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
 
 ## [👩🏻‍💻 My portfolio website *(2024)*](https://github.com/clementjosse/portfolio)
 
