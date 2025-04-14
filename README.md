@@ -34,7 +34,7 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	<img src="./assets/React.svg" height="35px" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Tailwind.svg" height="35px" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Expo.svg" height="35px" alt="Expo">&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./assets/Vue.svg" height="35px" alt="Expo">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vue.svg" height="35px" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -63,7 +63,8 @@ More informations on my website: **[cjosse.com](https://www.cjosse.com/)**
 	<img src="./assets/VSCode.svg" height="35px" alt="VSCode">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/IntelliJ.svg" height="35px" alt="IntelliJ">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Jira.svg" height="35px" alt="Jira">&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./assets/Capacitor.svg" height="35px" alt="Jira">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Capacitor.svg" height="35px" alt="Capacitor">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/Vite.svg" height="35px" alt="Vite">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -133,7 +134,7 @@ An ergonomic online dictionary that allows you to search for a specific word wit
 
 <p align="center">
 	<img src="./assets/Figma.svg" height="35px" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./assets/Vue.svg" height="35px" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./assets/React.svg" height="35px" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./assets/Python.svg" height="35px" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
